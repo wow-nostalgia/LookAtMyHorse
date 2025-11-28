@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: LookAtMyHorse
+## Author: Malz
+## Version: 0.1
+## SavedVariablesPerCharacter: LookAtMyHorseDB
+## Notes: Summons a random ground or flying mount from the list depending on the current zone|nUse |cffffff00/look-at-my-horse|r to config |nwith love from Malz
+## X-Website: http://github.com/wow-nostalgia
+## X-Category: Mounts
+## DefaultState: enabled
+
+
+Utils.lua
+Core.lua
+Options.lua
