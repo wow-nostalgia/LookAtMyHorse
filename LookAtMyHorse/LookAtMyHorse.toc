@@ -7,6 +7,7 @@
 ## X-Website: http://github.com/wow-nostalgia
 ## X-Category: Mounts
 ## DefaultState: enabled
+## RequiredDeps: !!!ClassicAPI
 
 
 Utils.lua
